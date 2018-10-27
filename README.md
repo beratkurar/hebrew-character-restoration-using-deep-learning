@@ -8,3 +8,4 @@ Following images show some original Hebrew letters, Hebrew letters overlapped by
 
 <img src="/images/original-hebrew-letters.png" alt="drawing" width="290"/> <img src="/images/arabic-overlap-hebrew.png" alt="drawing" width="290"/> <img src="/images/broken-hebrew-letters.png" alt="drawing" width="290"/>
 
+Naming convention for the letter images is: `labelnumber-samplenumber.png`
