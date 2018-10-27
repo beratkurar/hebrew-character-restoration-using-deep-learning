@@ -5,5 +5,6 @@ Creates root Hebrew letters of 8 different fonts and root Arabic letters of 8 di
 For every Hebrew letter an Arabic letter is randomly selected and randomly overlapped on this Hebrew letter. Overlapping letter parst are deleted to handle a broken Hebrew letter.
 
 Following images shows some original Hebrew letters, Hebres letters overlapped by Arabic letters and the final broken Hebrew letters.
-<img src="/images/original-hebrew-letters.png" alt="drawing" width="250"/><img src="/images/arabic-overlap-hebrew.png" alt="drawing" width="250"/><img src="/images/broken-hebrew-letters.png" alt="drawing" width="250"/>
+
+<img src="/images/original-hebrew-letters.png" alt="drawing" width="300"/>  <img src="/images/arabic-overlap-hebrew.png" alt="drawing" width="300"/>  <img src="/images/broken-hebrew-letters.png" alt="drawing" width="300"/>
 
